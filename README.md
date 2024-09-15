@@ -1,4 +1,4 @@
-# Vallarit_Experiment3
+# Vallarit, Marick Andrei T. 2ECE-C
 Experiment 3 - Python Data Analysis
 
 # I. Intended Learning Outcomes:
