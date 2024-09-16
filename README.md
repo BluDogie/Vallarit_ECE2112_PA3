@@ -18,7 +18,7 @@ Using knowledge obtained from the experiment and demonstrations:
 
 #### Output:
 
-![image](https://github.com/user-attachments/assets/d6f2d2f0-050a-4ee2-a198-6dffa4ebad63)
+![image](https://github.com/user-attachments/assets/4c352227-1a3d-4898-ac9e-30697ef01c9b)
 
 *I saved the file as .py in Microsoft Visual Code*
 
